@@ -6,7 +6,7 @@ This repository contains practical assignments for the course Grafika dan Komput
 ## Practical Assingment
 ### Practical Assingment for Meeting 2
 - **Deskripsi**: 
-- ### 🔗 Click here to access the files [Tugas Praktikum Pertemuan 2](https://github.com/adrianobwn/GKV-A1/commit/099e610d465a4785e4f712450a6672a80eb187c4)
+- ### 🔗 Click here to access the files [Tugas Praktikum Pertemuan 2](https://github.com/adrianobwn/GKV-A1/tree/main/Tugas%20Praktikum%20Pertemuan%202)
 
 ### Tugas Praktikum Pertemuan 3
 - **Deskripsi**: 
