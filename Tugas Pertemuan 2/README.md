@@ -21,5 +21,5 @@ This project is a 2D car simulation built using OpenGL (GLUT). The project demon
 
 ## 📝 Author
 - **Adriano Bawan**
-- **Date**: March 3, 2025
+- **Date**: March 7, 2025
 
