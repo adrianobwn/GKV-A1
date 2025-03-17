@@ -13,5 +13,5 @@ This repository contains practical assignments for the course Grafika dan Komput
 - **🔗 File**: [Tugas Praktikum Pertemuan 3](https://github.com/adrianobwn/GKV-A1/tree/0d68e3e612f00adb21e6fdf50a2be28bf6053bca/Tugas%20Pertemuan%203)
 
 ### 📌 Practical Assingment for Meeting 4
-- **📄 Description**: 
+- **📄 Description**: This project is a 3D circle simulation with lighting and camera controls using OpenGL. Users can change the camera angle and position using the keyboard. The scene includes a floor grid and a 3D circle illuminated with lighting.
 - **🔗 File**: [Tugas Praktikum Pertemuan 4](link_ke_file)
