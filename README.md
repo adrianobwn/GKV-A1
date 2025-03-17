@@ -11,3 +11,7 @@ This repository contains practical assignments for the course Grafika dan Komput
 ### 📌 Practical Assingment for Meeting 3
 - **📄 Description**: This project demonstrates a 3D arm and finger animation built using OpenGL (GLUT). The simulation includes basic body parts such as the upper arm, lower arm, palm, and fingers. The project uses basic transformations like translation and rotation to simulate the movement of each arm segment.
 - **🔗 File**: [Tugas Praktikum Pertemuan 3](link_ke_file)
+
+### 📌 Practical Assingment for Meeting 4
+- **📄 Description**: 
+- **🔗 File**: [Tugas Praktikum Pertemuan 4](link_ke_file)
